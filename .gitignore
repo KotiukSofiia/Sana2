@@ -1,6 +1,6 @@
-bin/
-obj/
+bin/ task 2
+obj///
 .vs/
 .idea/
-
-temporary.txt
+.vs/
+temporary.txt.
